@@ -4,7 +4,7 @@ add this to your HTML
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/anay-v2/bs-addons/deh-css.min.css">
-<script src="https://cdn.jsdelivr.net/gh/anay-v2/bs-addons/deh-css.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/anay-v2/bs-addons/deh-css.js" defer></script>
 ```
 
 ## Grid
